@@ -1,16 +1,3 @@
-Plaintext
-streamlit
-pandas
-numpy
-matplotlibPlaintext
-streamlit
-pandas
-numpy
-matplotlibPlaintext
-streamlit
-pandas
-numpy
-matplotlibPlaintext
 streamlit
 pandas
 numpy
